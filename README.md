@@ -1,1 +1,1 @@
-"# technocolabs-internship-prerequisites" 
+# Technocolabs Internship Prerequisites
