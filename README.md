@@ -1,1 +1,1 @@
-# Technocolabs Internship Prerequisites
+# Machine Learning Basics
